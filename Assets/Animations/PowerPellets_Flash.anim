@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PacStudent_Right
+  m_Name: PowerPellets_Flash
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -20,16 +20,14 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: -1750346142, guid: 5f64cd98cc2884188acce03d01087cf1, type: 3}
-    - time: 0.5
-      value: {fileID: -1028641993, guid: 5f64cd98cc2884188acce03d01087cf1, type: 3}
-    - time: 1
-      value: {fileID: -1750346142, guid: 5f64cd98cc2884188acce03d01087cf1, type: 3}
+      value: {fileID: 1357545609, guid: ea0dd1d02f63d4404852ea979b038086, type: 3}
+    - time: 0.33333334
+      value: {fileID: -1922808002, guid: ea0dd1d02f63d4404852ea979b038086, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
-  m_SampleRate: 20
+  m_SampleRate: 30
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -45,15 +43,14 @@ AnimationClip:
       isPPtrCurve: 1
       isIntCurve: 0
     pptrCurveMapping:
-    - {fileID: -1750346142, guid: 5f64cd98cc2884188acce03d01087cf1, type: 3}
-    - {fileID: -1028641993, guid: 5f64cd98cc2884188acce03d01087cf1, type: 3}
-    - {fileID: -1750346142, guid: 5f64cd98cc2884188acce03d01087cf1, type: 3}
+    - {fileID: 1357545609, guid: ea0dd1d02f63d4404852ea979b038086, type: 3}
+    - {fileID: -1922808002, guid: ea0dd1d02f63d4404852ea979b038086, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 1.05
+    m_StopTime: 0.36666667
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5f64cd98cc2884188acce03d01087cf1
+guid: 4a864c2cf2950460590e0119920f5eeb
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -106,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PacStudent_Movement_0
+      name: Ghost_Scared_0
       rect:
         serializedVersion: 2
-        x: 36
-        y: 426
-        width: 56
-        height: 44
+        x: 46
+        y: 290
+        width: 36
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,20 +120,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 556ee1571cc0e4a5b9a1f597d257243f
-      internalID: -1750346142
+      spriteID: b6fc4e8c4c81b4970baf0996ca210765
+      internalID: 1893812927
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PacStudent_Movement_1
+      name: Ghost_Scared_1
       rect:
         serializedVersion: 2
-        x: 156
-        y: 426
-        width: 64
-        height: 44
+        x: 167
+        y: 290
+        width: 50
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,146 +141,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81ef75e5fff1c4021848aec656f96f58
-      internalID: -1028641993
+      spriteID: 086344f0b5c594181a2cbfe7061ce576
+      internalID: -1726213050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PacStudent_Movement_2
-      rect:
-        serializedVersion: 2
-        x: 292
-        y: 426
-        width: 56
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cdc00a3b0e9e945ef8798f445605a943
-      internalID: 739974738
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PacStudent_Movement_3
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 298
-        width: 64
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 18dc83143362b4cf9a384b2d7dbe19fa
-      internalID: 1906945556
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PacStudent_Movement_4
-      rect:
-        serializedVersion: 2
-        x: 174
-        y: 298
-        width: 43
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1b8692bafc6864bf08f481bef2cc9b41
-      internalID: -1105275603
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PacStudent_Movement_5
-      rect:
-        serializedVersion: 2
-        x: 295
-        y: 298
-        width: 43
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: de4901fab628b40459fa5a6c0000e093
-      internalID: -83880285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PacStudent_Movement_6
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 170
-        width: 43
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f4191a26a11b44e6a822a356148d3302
-      internalID: -374669758
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PacStudent_Movement_7
-      rect:
-        serializedVersion: 2
-        x: 174
-        y: 170
-        width: 43
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 085f496da2b9e4e3b927b12c0c46eb5a
-      internalID: -967691867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PacStudent_Movement_8
+      name: Ghost_Scared_2
       rect:
         serializedVersion: 2
         x: 302
-        y: 170
-        width: 43
-        height: 44
+        y: 290
+        width: 36
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,20 +162,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7674b4a1f5fcd44ed80e17dabca2bf8a
-      internalID: -1182557682
+      spriteID: 08388ef97dcb2433ebcff39fc139d021
+      internalID: 44287437
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PacStudent_Movement_9
+      name: Ghost_Scared_3
       rect:
         serializedVersion: 2
-        x: 312
-        y: 212
-        width: 17
-        height: 4
+        x: 39
+        y: 162
+        width: 50
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -309,20 +183,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe795ccd9d46640eb87c20d93aef8422
-      internalID: 1356890438
+      spriteID: c133016179ba24c3e8199dcd3c236105
+      internalID: 1504793534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PacStudent_Movement_10
+      name: Ghost_Scared_4
       rect:
         serializedVersion: 2
-        x: 33
-        y: 42
-        width: 62
-        height: 44
+        x: 174
+        y: 162
+        width: 36
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,20 +204,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85a25f944314045de9937d0db1cd2a34
-      internalID: 1072087873
+      spriteID: cdf2e4cdadd2f4aee951d6cceb710999
+      internalID: -217895458
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PacStudent_Movement_11
+      name: Ghost_Scared_5
       rect:
         serializedVersion: 2
-        x: 56
-        y: 84
-        width: 17
-        height: 4
+        x: 302
+        y: 162
+        width: 36
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -351,8 +225,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f86a992a42abf481280dc21d1069e7dc
-      internalID: -80845852
+      spriteID: 7a583a600255e4249845c0a6fc568199
+      internalID: -520296751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Scared_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 34
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c3f458b9de54ad79f2fa145fa210d3
+      internalID: -1660667663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Scared_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 34
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e365926e8274469facd5e1c0355d9c3
+      internalID: 1539122025
       vertices: []
       indices: 
       edges: []
@@ -360,7 +276,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 613dd3930ca94403e9aaee0231963b54
+    spriteID: 14ae7410ca7ed44a38f2f6ff067d2128
     internalID: 0
     vertices: []
     indices: 
@@ -368,18 +284,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PacStudent_Movement_8: -1182557682
-      PacStudent_Movement_10: 1072087873
-      PacStudent_Movement_0: -1750346142
-      PacStudent_Movement_3: 1906945556
-      PacStudent_Movement_7: -967691867
-      PacStudent_Movement_9: 1356890438
-      PacStudent_Movement_1: -1028641993
-      PacStudent_Movement_2: 739974738
-      PacStudent_Movement_5: -83880285
-      PacStudent_Movement_11: -80845852
-      PacStudent_Movement_4: -1105275603
-      PacStudent_Movement_6: -374669758
+      Ghost_Scared_4: -217895458
+      Ghost_Scared_3: 1504793534
+      Ghost_Scared_7: 1539122025
+      Ghost_Scared_5: -520296751
+      Ghost_Scared_6: -1660667663
+      Ghost_Scared_1: -1726213050
+      Ghost_Scared_0: 1893812927
+      Ghost_Scared_2: 44287437
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
