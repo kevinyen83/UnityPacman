@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class SceneControl : MonoBehaviour
-{
-
-    public void ToFirstScene(string SceneName)
+    public class SceneControl : MonoBehaviour
     {
-        SceneManager.LoadScene(SceneName);
+    //No return = void, Return = int, float
+        public void ChangeScene(string SceneName)
+        {
+            SceneManager.LoadScene(SceneName);
+        }
     }
-}
+
+
